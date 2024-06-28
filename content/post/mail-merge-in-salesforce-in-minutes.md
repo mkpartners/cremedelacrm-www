@@ -22,7 +22,7 @@
 
 Ready to start producing professional-quality documents, straight from your Salesforce org, but you're not sure where to start? We built [Mambo Merge](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000MBinOEAT) to make it easy, and we made this video to make getting it up and running even easier!
 
-Join our CIO Matt Kaufman as he walks through:
+Join our CEO Matt Kaufman as he walks through:
 
 - Installing [Mambo Merge](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000MBinOEAT) from the AppExchange
 - Adding it to a page in your Salesforce org
@@ -33,7 +33,5 @@ Join our CIO Matt Kaufman as he walks through:
 And all in under 10 minutes! Check it out!
 
 {{< youtube id="PHl1jI3Z4q4" >}}
-
-If you still need a hand, we’ve got a support page built out here and, if you have ideas for features or functionality you’d like to see in the future, drop us a line! We’re always open to new ideas!
 
 Don’t forget to subscribe to our YouTube channel for more helpful Salesforce news, tips, and tricks and, until next time, keep working hard, smart, and happy. We’ll see you in the cloud.

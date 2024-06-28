@@ -61,8 +61,6 @@ Test again, and they should all be back up and running! Salesforce does note (an
 
 And now your org and integrations should be all set for the Chrome 80 release!
 
-As always, if you need a hand ensuring that your org is ready and up-to-date, want some help building secure integrations, or anything else Salesforce-related, [drop us a line](/contact) — MK Partners is here to help!
-
 Stay tuned here on the blog for more Spring ’20 release highlights and, until next time, keep working hard, smart, and happy!
 
 We’ll see you in the cloud.

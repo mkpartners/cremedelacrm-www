@@ -57,5 +57,6 @@ Once complete, have your trigger ready to use.
 Creating a document layout for everyone who needs to review.
 {{< image src="/img/1_QicSssYh2zzOdO4p1xJJQA.png" title="Image" >}}
 
-With customized report layouts, colleagues can quickly analyze the data they need. If you still need a hand getting started or just getting more out of your org in general, [drop us a line!](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE) We’re always happy to help.
+With customized report layouts, colleagues can quickly analyze the data they need.
+
 As always, will see you in the cloud.

@@ -28,8 +28,6 @@ Check out the video below where Caylin and I chat about the partnership and MK P
 
 {{< youtube id="xNxBQCeRtvY" >}}
 
-If you'd like to learn more about [Hiring Our Heroes](https://www.hiringourheroes.org/fellowships/salesforce-fellowship-program/) or the [Pledge 1%](https://pledge1percent.org/)program, follow those links and, as always, if you need help getting the most out of your Salesforce org --- [drop us a line](https://www.mkpartners.com/contact/)! We're always happy to help.
-
 It's going to be a big week with Dreamforce kicking off, so stay tuned here for all the action and, until next time, keep working hard, smart, and happy!
 
 We'll see you in the cloud.

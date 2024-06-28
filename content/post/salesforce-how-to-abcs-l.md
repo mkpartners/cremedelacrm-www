@@ -28,6 +28,7 @@
 ---
 
 Dreamforce has completed its 20th anniversary and with it, many trailblazers rejoiced in coming together once again since the pandemic first began. Lots of people were meeting for the first time in-person, while others were just happy to reconnect with friends and colleagues. With so much activity, news, and information filling the airwaves, many will find themselves googling things they “know they’ve done before — but it was a while ago”. And that makes this the perfect time for another installment of our Salesforce “How to” ABCs! The series where we tackle the most commonly Googled Salesforce questions, letter by letter, to help trailblazers find the answers they’re looking for fast!
+
 Today’s letter is “L” as in, “How to Login As Another User”. Let’s dive in!
 {{< image src="/img/0_lw5D-C-dReB05AnP.png" title="Image" >}}
 
@@ -73,5 +74,4 @@ On the users window, you will see a blue login link next to each active user tha
 Test by clicking the login link which will launch another window with a Salesforce instance. On the top right-hand side, you will notice a prompt letting you know that the administrator has now logged in as the user.
 {{< image src="/img/0_U0nxp4F_qFmfpNF-.png" title="Image" >}}
 
-Of course, if you still need a hand getting started or just getting more out of your org in general, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

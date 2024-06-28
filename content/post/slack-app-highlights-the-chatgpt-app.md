@@ -34,6 +34,4 @@ Perhaps most exciting is the potential sense of having an “extra set of eyes a
 
 So, if you’re interested in adding the power of ChatGPT, be sure to [join the waitlist here](https://openai.com/waitlist/slack) (although I’d please ask that you not cut me in line with a more moving use-case).
 
-And, of course, if you need a hand getting your Slack or Salesforce configured or customized, have an idea for an app of your own you’d like to have built, or just want an extra set of eyes to help you ID where you might capture more ROI from either platform. [Drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. We’ll see you in the cloud.

@@ -39,7 +39,7 @@ What that means for admins and execs is even more granularity and accuracy is po
 
 And, because it's Salesforce, if it's in the org, you can report on it --- meaning that improved opportunity splits also make for more accurate reports and dashboards, better insight into pipeline movement and potential, and a clearer picture of exactly where your team's efforts make the most impact.
 
-You can find the release notes for the Opportunity Splits improvements [right here](https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_sales_opportunity_splits_limit.htm) and, if you have any questions about how your org could employ them to improve your data, [drop us a line](https://www.mkpartners.com/contact/)! We're always happy to help.
+You can find the release notes for the Opportunity Splits improvements [right here](https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_sales_opportunity_splits_limit.htm)
 
 The Summer '20 release hits orgs on July 17th, so stay tuned here to read up on the rest of our favorite soon-to-be features and, as always, keep working hard, smart, and happy.
 

@@ -36,6 +36,4 @@ From there, setting it up is as easy as defining your threshold amount AND proba
 
 Once you save, any time an opportunity meets those criteria, the emails will go out automatically! And you never have to leave Lightning.
 
-If you still need a hand getting Big Deal Alerts set up in your org (or have a broader vision for automation, customization, and user experience in your org), [drop us a line](https://www.mkpartners.com/contact/)! We're always happy to help.
-
 Until next time, keep working hard, smart, and happy. We'll see you in the cloud.

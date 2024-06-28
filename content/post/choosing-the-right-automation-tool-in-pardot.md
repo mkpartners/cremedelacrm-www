@@ -65,17 +65,26 @@ We’ve recently re-imagined our monthly newsletter and we want to make sure our
 ## Automation Rules
 
 One of the most comprehensive automation tools within Pardot, Automation Rules, are criteria-based rules that trigger actions, whenever a prospect matches the criteria. Once set, anytime a prospect meets the criteria, the rule will be applied.
-<strong>**Use Case Example**</strong>
+
+**Use Case Example**
+
 We use Completion Actions on various emails and custom redirects to adjust a prospect score by +10 when they engage with our content. Anytime a prospect score reaches “100” we want to notify their assigned Sales rep that they’re a warm lead and should be sent a personal email or reached out to by phone. So, we establish an Automation rule that says “Anytime a prospect score reaches or exceeds 100”:
 
 <ul><li>Notify their assigned user</li><li>Update their Salesforce Campaign Status to reflect their warmth and readiness for a Sales Engagement</li><li>Add a tag “Marketing warmed”</li></ul>
+
 ## Dynamic Lists
 
 Dynamic Lists are “smart” lists that prospects get automatically assigned to (and removed from) via predefined rules. Prospects cannot be added or removed manually from these lists so they serve as a great tools when frequent changes happen or when you know list inclusion will always be dependent on fields in your Pardot instance. Dynamic lists will be automatically updated routinely throughout the day so, as data changes, prospects will be automatically added and removed from the lists.
-<strong>**Use Case Example**</strong>
+
+**Use Case Example**
+
 We occasionally do geographic-offers for our existing clients, based on the products they use. We want a Segmentation List that’s always up to date called “Product A — New York Offers” and only includes:
 
-<ul><li>Current clients</li><li>Who use Product A</li><li>And are headquartered in New York</li></ul>To accomplish that, we create our Segmentation List (“Product A — New York Offers”) as a Dynamic List who’s rules match the criteria listed above. Now, anytime we want to send one of those targeted offers, we simply select our Dynamic List and will know its members are always up to date, and always match our three rules!
+- Current clients
+- Who use Product A
+- And are headquartered in New York
+
+To accomplish that, we create our Segmentation List (“Product A — New York Offers”) as a Dynamic List who’s rules match the criteria listed above. Now, anytime we want to send one of those targeted offers, we simply select our Dynamic List and will know its members are always up to date, and always match our three rules!
 
 ## Summary
 
@@ -83,5 +92,4 @@ Now that you understand how all the pieces fit together, rules, actions, and the
 Take another look at the flow chart from the top of this post and you’ll likely have a much more confident understanding of how, why, and when each of the automation tools in Pardot is an appropriate fit for what you’re trying to accomplish.
 {{< image src="/img/1_dEus_C06Vhg3Oz2ly0Jg_g.jpg" title="Image" >}}
 
-Of course, if you need a hand getting some of your more complex ideas implemented, want a better understanding as it relates to a very specific use case you have, or just need a hand in general getting your org up to speed — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
 And we’ll see you in the cloud.

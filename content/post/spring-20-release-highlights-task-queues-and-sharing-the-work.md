@@ -47,8 +47,6 @@ Best of all, setting up queues as an admin is as easy as 1–2–3.
 
 All that’s left to do is decide how you’ll use task queues to make your team’s lives easier!
 
-And, if you need a hand determining the best fits for task queues in your business process, want to make your org better match your vision, or just need some help overcoming your Salesforce hurdles — [drop us a line](/contact)! We’re always happy to help.
-
 Until next time, don’t forget to [subscribe here](https://pardot.mkpartners.com/Subscribe) to stay up to date on all the latest Salesforce news and, as always, keep working hard, smart, and happy.
 
 We’ll see you in the cloud!

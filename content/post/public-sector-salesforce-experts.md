@@ -30,6 +30,4 @@ And now that they’re live, we’re proud to be recognized as experts by Salesf
 
 {{< image src="/img/public-sector-specialization.png" >}}
 
-To see a full list of our areas of expertise, check out our [AppExchange listing here](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE) and, as always, if you need some help getting more out of your Salesforce instance, [drop us a line](https://www.mkpartners.com/contact/)! We're always happy to help.
-
 Until next time, keep working hard, smart, and happy. And we'll see you in the cloud.

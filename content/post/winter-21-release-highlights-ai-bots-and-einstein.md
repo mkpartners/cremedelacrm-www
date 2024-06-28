@@ -47,6 +47,4 @@ Using AI to help steer your sales efforts, gauge the accuracy of your pipeline, 
 
 {{< image src="/img/opportunity-scoring.png" >}}
 
-Stay tuned here and on our [YouTube channel](https://www.youtube.com/c/MkpartnersHQ/videos) for even more release highlights as we countdown the days to Winter '21 and, as always, if you need a hand configuring, customizing, or just making sense of your Salesforce org, [drop us a line](https://www.mkpartners.com/contact/)! We're here to help.
-
 Until next time, keep working hard, smart, and happy. We'll see you in the cloud.

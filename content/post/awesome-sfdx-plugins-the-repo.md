@@ -36,6 +36,4 @@ It’s a smorgasbord of shortcuts, tweaks, tools, and more to help developers ge
 
 [Here’s the link again](https://github.com/mshanemc/awesome-sfdx-plugins), so you can browse, “wow”, and `sfdx plugins:install` your faves! Drop your favorites in the comments below and don’t forget to thank Shane online, at Dreamforce, or the next Dev Conference!
 
-And, if you love Salesforce’s flexibility, but don’t quite have the kinks worked out in your code or you need a hand with the heavy-dev-ing, [drop us a line](https://www.mkpartners.com/article/contact/contact) — we’re always happy to help.
-
 Keep working hard, smart, and happy. We’ll see you in the cloud!

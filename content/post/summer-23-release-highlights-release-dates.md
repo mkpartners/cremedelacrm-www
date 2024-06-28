@@ -28,9 +28,7 @@ As always, we’ll be peppering the countdown to “go live” with another roun
 So what do we know so far? Interestingly, a bit less than usual. We know the Go-Live dates aka Release Weekends for Summer ’23. And those are:
 
 - May 6, 2023
-
 - June 3, 2023
-
 - June 10, 2023
 
 And, given previous releases we can make an educated guess that the May date will be a “*First Release Weekend (Limited, Pilot participation)”*with the remaining June dates being the wider releases that see all orgs get the update.
@@ -40,7 +38,5 @@ And, given previous releases we can make an educated guess that the May date wil
 But, given that we know the pilot weekend is just about a month away — it’s a bit surprising that we don’t have any release notes, dates for sandbox previews, a release module on Trailhead, etc…! We’re still waiting on the rollout of all those bells and whistles so we can dive into the detail sand see what Salesforce has in store for Summer ‘23!
 
 So, go ahead and mark your calendars for “go live” and follow us here for more release info as we get closer. You know we’re excited to get our hands on the release notes and, once we do, we’ll have our regularly scheduled rounds highlighting the new features, functionality, upgrades, and updates that we’re most looking forward to as we count down the days til ‘Summer’.
-
-As always, if you’d like to have a more in-depth or personalized/focused discussion about what summer ’23 will mean for your org, or want to do some org maintenance / workflow management pre-release so you can dash into Summer ’23 agile and ready to grow — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
 
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

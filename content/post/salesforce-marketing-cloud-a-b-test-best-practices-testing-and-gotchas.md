@@ -50,5 +50,3 @@ NEXT: Determine how the winning audience should be determined via the “Higher 
 FURTHER CONSIDERATIONS & “GOTCHA’S”: During the setup process, it’s important to define the right email templates to test, test size by percentage, Contacts to send to, & the “From & Send Options”. Additionally, it should be properly decided as to whether the A/B Test should be deployed immediately, or at a particular date & time. Think of the process as a user would be sending out a regular Marketing Cloud email to a subscriber, but in the A/B Test process, its dual emails to manage upon a send.
 
 I hope this is helpful (and also hope to see you with the Doobie’s in Los Angeles, CA this Sunday)!
-
-And, as always, if you need more personalized help getting Marketing Cloud set up — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help!

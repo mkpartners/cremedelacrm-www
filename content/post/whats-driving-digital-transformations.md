@@ -34,6 +34,4 @@ From tools to drive adoption, ease integrations, and empower every division, seg
 
 Luckily, if you’re already running some processes out of Salesforce, then adding in additional departments, processes, and users is easier, and will allow you to more rapidly realize increased ROI from the platform.
 
-And, of course, if you need a hand integrating any of your current core systems, spinning up a virtual version of the physical processes that you already know work, or just want some strategic, best-practice insight into how similar organizations are pursuing their DX objectives, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE) — we’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

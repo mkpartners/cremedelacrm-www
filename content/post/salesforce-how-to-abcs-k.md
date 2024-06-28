@@ -49,6 +49,4 @@ Next, you would select a component and scroll down until the “Assign Page Layo
 
 {{< image src="/img/1_QfvYVI0B1CVVVpgiwvbfOQ.png">}}
 
-Of course, if you still need a hand getting started or just getting more out of your org in general, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

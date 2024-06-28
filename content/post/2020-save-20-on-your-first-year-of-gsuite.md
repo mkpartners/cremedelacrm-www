@@ -28,6 +28,4 @@ And, in response to the pandemic, Google's given partners like us another way to
 
 If you're interested in GSuite for your business, you can start a 2-week free trial [right here](https://gsuite.google.com/landing/partners/referral/trial.html?utm_source=sign-up&utm_medium=referral&utm_campaign=apps-referral-program&utm_content=NANCUC3) and, if you'd like to get 20% off your first year, just [fill out this form](https://news.mkpartners.com/GSuitePromoCode) and we'll email you one of the promo codes!
 
-As always, if you need help with implementation, configuration, or migration (or just want a more in-depth chat about how GSuite would fit in your business processes)--- [drop us a line](https://www.mkpartners.com/contact/)! We're happy to help.
-
 And until next time, keep working hard, smart, and happy. We'll see you in the cloud.

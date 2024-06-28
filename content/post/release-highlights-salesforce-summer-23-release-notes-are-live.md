@@ -70,6 +70,4 @@ Eventually, you’ll probably have a browser that’s jam-packed with tabs and l
 
 And that’s why these round-ups and highlight posts are so important! Because we know most Trailblazers don’t have the time to read up on all the relevant updates in there. Heck, all those tabs aren’t even 1/3 of what’s in the Summer ’23 update! Those are just the ones that I hit on my first scan through for relevance.
 
-So, please do let us know in the comments here if there’s a feature, product, or industry set you’re particularly interested in, stay tuned for our Release Highlights content and, if you’d like a more personalized 1-on-1 examination of which updates will have the biggets impact on your org, simply [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud!

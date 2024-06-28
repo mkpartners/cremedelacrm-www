@@ -28,6 +28,4 @@ The first episode will be a roundtable where we pitch each other on potential pr
 
 You can add all three episodes to your calendars right now if you want to tune in live [Episode 1, Episode 2, Episode 3] and, if you can’t make it, they’ll be available after the stream on our YouTube channel (so be sure to subscribe)!
 
-Feel free to toss your own ideas in the comments below if there’s something specific you’d like to see built out and, if you or your org need a little more assistance making your vision a reality, drop us a line! We’re always happy to help.
-
 Until then, keep working hard, smart, and happy. We’ll see you in the cloud.

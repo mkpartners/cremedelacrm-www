@@ -20,17 +20,21 @@
 }
 ---
 
-Social media won. Gone are the monopolies of the monolithic media companies. People no longer pick up a newspaper to pair with their morning coffee, instead they reach for their phones. And it’s not the evening news that tells us what happened over the course of the day anymore, it’s our coworkers, kids, and the “plugged in” among us who post, comment, watch, tell, and re-tell.
 We live in an era of “influencers” and, luckily, “influencer” isn’t viewed as a bad word by the non-marketing-departments anymore! In fact, most folks follow at least some people they don’t know for professional insight, updates, and news on LinkedIn, Instagram, or their platforms of preference!
+
 So, who should you be following in the world of Sales, Business, and Artificial Intelligence? Luckily for us, Salesforce composed as helpful list of their picks for the top 39(!) influencers in the space!
+
 This is around-up of 2024’s most insightful, influential, and impactful voices in tech.
 Let’s dive in!
 
 ## Sales
 
 Sales never changes.
+
 Sales changes every day.
+
 Both of those statements are true.
+
 It seems like, while the fundamental principles, approaches, and tenets of sales are almost hard-wired into the human psyche, the ever-changing landscape of technology presents endless opportunities to adapt, improve, and sell more effectively. And, with the introduction of new communication channels, artificial intelligence, and shifting prospect expectations, it’s more important than ever to stay up to date on what’s effective.
 {{< image src="/img/1_dzoBzixz5J9oZT5ifsYtWg.png" title="Image" >}}
 
@@ -47,4 +51,5 @@ So how do you separate the wheat from the chaff?
 ## Who are Your Feed Faves?
 
 We’d love to hear about the views and voices you value when they come across your feeds! Let us know who you’re listening to and learning from in the comments!
+
 And, until next time, keep working hard, smart, and happy. We’ll see you in the cloud.

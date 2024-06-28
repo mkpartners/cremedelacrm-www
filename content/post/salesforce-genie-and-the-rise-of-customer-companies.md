@@ -56,7 +56,6 @@ Except when all that data lives in silos, can’t be molded into recognizable pa
 So how does Salesforce Genie Customer Data Cloud aim to solve that? Genie adds two powerful new capabilities to the Customer 360 experience Salesforce clients are aiming for:
 
 - Real-Time Data
-
 - Powerful Visualization and Data Recognition
 
 Genie promises to integrate all of an organizations disparate data sources into a central, easily understandable, and widely configurable customer profile that will reveal in real time a customer’s entire interaction with your brand, across media. Imagine unifying Sales, Support, Marketing, and more, across sites, apps, in stores, etc… to get a true understanding of what works and what doesn’t in your processes. Not to mention, what your customers have already seen and know when it comes time to recommend content or offerings.
@@ -70,8 +69,6 @@ In fact, companies are already embracing the functionality (and, of course, bein
 You can see Marc Benioff’s breakdown of Genie from the [NYC World tour event here](https://www.salesforce.com/news/stories/salesforce-genie-tableau-demo/) or catch Sanjna Parulekar’s [Dreamforce demo right here](https://www.salesforce.com/ap/form/conf/genie-demo-video/?leadcreated=true&redirect=true&sfuuid=f69ffda2-36b6-4440-90c4-c89a09bddf36&d=70130000000sUVq&nc=7013y00000267b7AAA).
 
 We’re only a few months post-DF, of course, so it may still be a while before we start seeing less-polished, more live-action Genie demos but, if you’re a customer company, or aspire to be one, especially if you have a broad customer base, it’s a product you’ll absolutely want to keep your eye on.
-
-And, of course, if you do decide to go the Genie route and need a hand integrating all those external and Salsforce-based systems to make your customer company dreams come true — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help. Even if you just need a sanity check and want to talk through your existing processes and discuss/determine if Genie is the right call for your organization with someone besides the AE trying to sell it to you.
 
 Stay tuned here for more updates on Genie as they roll out, first-hand experiences, tips and tricks, etc… and, until next time, keep working hard, smart, and happy.
 

@@ -28,7 +28,9 @@
 ---
 
 [Salesforce](https://www.salesforce.com/) can seem huge. It’s powerful, flexible, and always growing, always improving. With so many [products](https://www.salesforce.com/products/), features, [releases](https://medium.com/creme-de-la-crm/spring-19-release-the-final-countdown-1f7b24a1dc1), and updates, it’s easy to forget how to do some of the things that seemed so simple in the first weeks of your implementation.
+
 In today’s post, we’ll continue our trek through the most common (and most commonly forgotten) Salesforce tasks — it’s another installment of the [Salesforce “How to” ABCs](https://medium.com/tag/salesforce-how-to-abcs/latest)!
+
 For the letter “C” we’ll be covering how to create a dashboard, so you can keep an eye on all of your important metrics at-a-glance. Let’s jump in!
 {{< image src="/img/1_Wa_kzI6HuMMIHRuP8QTX4A.jpg" title="Image" >}}
 
@@ -135,5 +137,5 @@ And you’re all set! Your new dashboard is ready to to roll out!
 {{< image src="/img/1_oakGKlUbKvdV5k72SXjF8Q.jpg" title="Image" >}}
 
 Congratulations! Dashboards are a great real-time tool for meetings and presentations, aligning goals across teams, tracking individual progress, and more!
-If you need help determining which of your reports will provide the most meaningful insights, configuring your own dashboards, or diving deeper into your org’s data — [drop us a line](https://www.mkpartners.com/article/contact/contact), we’re always happy to help!
+
 And stay tuned right here for more installments of the [Salesforce “How to” ABCs](https://medium.com/tag/salesforce-how-to-abcs/latest)! Until then, keep working hard, smart, and happy! We’ll see you in the cloud.

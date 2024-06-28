@@ -22,9 +22,11 @@
 ---
 
 In case you missed it, this Thursday we’re hosting a [Hands on Workshop](https://events.mkpartners.com/EinsteinWorkshop) and walking through one of the most useful features of AI in Salesforce — Prediction Builder!
+
 From 11am-12pm pacific time, we’ll take a look at creating, running, and evaluating a prediction using a real-world use-case in our very own Einstein-enabled orgs.
 {{< image src="/img/1_6_TuW5huRNbpNLNBGV9Cvw.jpg" title="Image" >}}
 
 [Sign-up is still live](https://events.mkpartners.com/EinsteinWorkshop), but spots are filling up fast, so be sure to register today if you want a seat!
-Of course, if you can’t make it, we’ll release a recorded version after the fact — but you’ll miss out on having your own AI-sandbox to test the waters for yourself. Or, if you’d prefer a more in-depth look at how your organization could benefit from AI implementation in your org, [drop us a line](https://www.mkpartners.com/contact/)! We’re always happy to help.
+Of course, if you can’t make it, we’ll release a recorded version after the fact — but you’ll miss out on having your own AI-sandbox to test the waters for yourself.
+
 Until then, keep working hard, smart, and happy, and we’ll see you in the cloud.

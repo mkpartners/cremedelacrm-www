@@ -34,6 +34,4 @@ Maybe you want to pick the same edition you use internally, so you can get a tru
 
 Whatever you decide, with release notes dropping next week, you won’t want to miss your chance to dive in and get some real demo time with all the latest features, updates, and upgrades heading to orgs everywhere — so [be sure to sign up](https://www.salesforce.com/form/signup/prerelease-summer23/?_ga=2.135809265.1341205535.1681922652-1161755802.1667412373&_gl=1*19jpozs*_ga*MTE2MTc1NTgwMi4xNjY3NDEyMzcz*_ga_EE9XB9ZV8F*MTY4MjExMTg3NC4xMC4wLjE2ODIxMTE4NzQuMC4wLjA.)!
 
-And of course, if you’d prefer some more personalized guidance, or would rather have someone else do the research into the new release’s effects on your org, processes, and procedures — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help and love discussing the delta between your current configuration and your ideal vision for the platform.
-
 Until next time, keep working hard, smart, and happy! And we’ll see you in the cloud.

@@ -8,14 +8,7 @@
   "title": "Remote Work Tools: Creating a Call or Meeting in Google Hangouts",
   "Slug": "remote-work-tools-creating-a-call-or-meeting-in-google-hangouts",
   "description": "While Zoom has taken Skype’s crown for becoming synonymous with “Professional Facetime”, a wave of recent security issues has organization’s scrambling for alternatives.",
-  "tags":
-    [
-      "video-conferencing",
-      "wfh",
-      "remote-work",
-      "google-hangouts-meet",
-      "zoom",
-    ],
+  "tags": ["video-conferencing", "wfh", "remote-work", "google", "zoom"],
   "author":
     {
       "name": "Chris Stegall",
@@ -28,16 +21,22 @@
 ---
 
 While Zoom has taken Skype’s crown for becoming synonymous with “Professional Facetime”, a [wave](https://www.cnet.com/news/zoom-every-security-issue-uncovered-in-the-video-chat-app/) of recent [security issues](https://www.buzzfeednews.com/article/pranavdixit/google-bans-zoom) has [organization’s scrambling](https://www.bloomberg.com/news/articles/2020-04-07/taiwan-bans-government-use-of-zoom-over-cybersecurity-concerns) for alternatives. Ideally something easy-to-use, secure, and free.
+
 Luckily, for 90% of the people making the exodus from Zoom, that alternative is already “installed”. In today’s post we’ll be taking a look at video-conferencing via [Google](https://meet.google.com/). Let’s dive in!
 
 ## What You Need
 
-<strong>To Create or Host a Call or Meeting:</strong>
+**To Create or Host a Call or Meeting:**
 To kick off your own call or meeting (or schedule one for the future), all you need is **one** of the following:
 
-<ul><li>GSuite account</li><li>Free Gmail account (if you don’t already have one, you can [create one here](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&amp;flowEntry=SignUp) in about 5 minutes)</li></ul><strong>To Join a Call or Meeting:</strong>
+- GSuite account
+- Free Gmail account (if you don’t already have one, you can [create one here](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) in about 5 minutes)
+
+**To Join a Call or Meeting:**
 And to join a call or meeting, all you need is:
-<ul><li>an invitation</li></ul>
+
+- an invitation
+
 ## Getting Started
 
 In this section, we’ll cover three ways to schedule and/or launch a call or video meeting.
@@ -100,6 +99,5 @@ And your meeting will start with all the info to join front and center. Send it 
 {{< image src="/img/1_2_6KDGpo9d5mNWR_dlvkJw.jpg" title="Image" >}}
 
 Now you’re all set to zoom right into your meetings, without even needing to download Zoom!
-As always, if you still need a hand, just [drop us a line](https://www.mkpartners.com/contact.html) — we’re here to help! And, if you’re a US-non-profit or an LA-based small business struggling with the sudden shift to remote work, we have a [grant program](https://www.mkpartners.com/blog/covid-19-mk-partners-providing-1.5-million-in-support-to-non-profits-and-socal-small-businesses.html) in place to help that includes GSuite set-up, best practices, training, etc… so please [enroll](https://www.mkpartners.com/blog/covid-19-mk-partners-providing-1.5-million-in-support-to-non-profits-and-socal-small-businesses.html) if you’re eligible!
-Don’t forget to [stay tuned here](https://pardot.mkpartners.com/subscribe) for more news, updates, tips, and tricks in the world of tech.
+
 And until then, keep working hard, smart, and happy — we’ll see you in the cloud.

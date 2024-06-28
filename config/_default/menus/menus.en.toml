@@ -16,7 +16,7 @@
 
 [[social]]
   name = "Twitter"
-  pre = "fab twitter"
+  pre = "fab x-twitter"
   url = "https://twitter.com/cremedelacrm_"
   weight = 10
 

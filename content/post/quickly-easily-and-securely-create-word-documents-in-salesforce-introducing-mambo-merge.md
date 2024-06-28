@@ -43,6 +43,4 @@ Maybe best of all, Mambo Merge is available for free right now on the [AppExchan
 
 Installation only takes a few clicks and you can be up and running in no time.
 
-And of course, if you need a hand getting up to speed, have ideas for additional functionality you’d like to see roll out in the future, or want some help configuring and customizing your Salesforce org to make your users’ happier and more effective, [drop us a line](/contact)! We’re here to help.
-
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

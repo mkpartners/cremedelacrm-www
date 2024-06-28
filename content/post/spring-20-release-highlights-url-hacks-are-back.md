@@ -61,9 +61,4 @@ We weren’t the only ones excited either.
 
 All that’s left to do is decide how you’ll use your newfound power!
 
-As always, if you need a hand figuring out where URL hacks can help your org, getting your Salesforce firing on all cylinders, or anything else platform-related — [drop us a line](/contact), we’re always happy to help!
-
-And stay tuned (and [subscribe](https://pardot.mkpartners.com/Subscribe)) to the blog here for even more [Spring ’20 Release highlights](https://medium.com/tag/release-highlights/archive) over the
-coming weeks as we countdown to the launch in February!
-
 Until then, keep working hard, smart, and happy! And we’ll see you in the cloud.

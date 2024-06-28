@@ -46,6 +46,4 @@ And now your CloudPages finally have favicons of their very own!
 
 {{< image src="/img/1_ku4-_FeW7SDfVLf8ig_FBg.jpg">}}
 
-Of course if you have additional questions about getting your CloudPages stood up or behaving correctly, or need a hand with a different part of the Salesforce product suite — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud!

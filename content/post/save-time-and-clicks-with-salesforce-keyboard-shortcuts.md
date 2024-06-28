@@ -21,10 +21,13 @@
 ---
 
 But even with workflow rules, macros, quick text, and more — awesome admins (and their users) are always looking for another edge to help them get through the repetitive bits even faster.
+
 And there’s good news on that front! Back in the Spring ’19 Release, Salesforce rolled out keyboard shortcuts that’ve been helping admins save time for more than 3 years now!
 In today’s post (and for newer admins who missed the buzz the first time) we’ll run through our favorite keyboard shortcuts for cutting down the clicks and speeding up your Salesforce-ing.
+
 **Note: The shortcuts will be presented with their Mac keys first, then the PC option, but for the most part all you need to do is mentally swap the “command(⌘)” key for the “control” key on your PC and you’ll be fine!**
 **Also, we’ll use a “+” sign to indicate that the keys must be pressed simultaneously. For a sequential pressing, we’d write “**\_**, then **\_**”.**
+
 Ok, let’s get to it!
 
 ## ‘CMD + /’ to open keyboard shortcuts menu
@@ -68,6 +71,7 @@ Select your desired text, save (remember that handy “cmd+s” shortcut?) and y
 ## Page-Specific Shortcuts
 
 All of the ones we’ve already run through are global shortcuts, meaning they’ll work on basically any Salesforce page or record, but there are also page-specific shortcuts available to help you handle more use-case-focused tasks and activities.
+
 If you spend most of your time in a specific record type or using a particular app — be sure to check the shortcut key for that page (Mac: “cmd(⌘)” + “/”, PC: “Ctrl” + “/”) to find the additional keystroke tricks that will save you the most time.
-Now you’re ready to drive through your org, mouse-free! For more info on Salesforce best-practices and time-saving tips, follow the blog right here. And, if you need a hand otherwise whipping your org into shape, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE) — we’re happy to help!
+
 As always, keep working hard, smart, and happy. We’ll see you in the cloud.

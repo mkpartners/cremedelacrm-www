@@ -52,6 +52,6 @@ And the third perk of Data Loader + External IDs is data cleanup. It’s signifi
 ## Give it a Try
 
 Now you’re ready to upsert like the pros! Take your newfound knowledge for a spin in your sandbox and you’ll quickly get a sense of just how helpful those External IDs can be in your day to day.
-As always, if you have any questions, need a hand running through the basics, or want to learn how to roll out External IDs in your existing, already populated org, [drop us a line](https://www.mkpartners.com/contact.html)! We’re here to help.
+
 Stay tuned here for more tips, tricks, and guides from our admins on the ground and, keep working hard, smart, and happy!
 We’ll see you in the cloud.

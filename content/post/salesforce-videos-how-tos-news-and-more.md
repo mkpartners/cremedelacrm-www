@@ -41,6 +41,4 @@ Helpful how-to guides presenting the tips and tricks our admins use everyday, Sa
 
 And, with Dreamforce on the horizon, there's a lot of content going up in the coming weeks, so subscribe to get the freshest videos sent straight to the top of your feed!
 
-Feel free to drop comments here too (or on [videos](https://www.youtube.com/c/MkpartnersHQ/videos)!) if you have requests, questions, or just want us to dive a little deeper into anything. As always, if you'd like some more personalized assistance implementing, managing, or maintaining your cloud systems --- [drop us a line](https://www.mkpartners.com/contact/)! We're happy to help.
-
 Until next time, keep working hard, smart, and happy. We'll see you in the cloud!

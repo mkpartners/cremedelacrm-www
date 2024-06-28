@@ -33,6 +33,4 @@ And, while we can speculate on why this is happening and what Salesforce or thir
 
 This is truly one of those features that, for some C-Suite executives and Sales Leads, is a game-changer/dealbreaker. There are of course orgs that don’t use them at all, but if you have high-level users who hate when thing “stop looking like they used to” you’ll want to get planning (or setting expectations) now.
 
-Of course, and as always, if you’d prefer to have a more personalized discussion about exactly how the change will affect your org, want someone to take a look under the hood and assure you it’ll be fine or assist making the necessary updates — [drop us a line](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy! And we’ll see you in the cloud.

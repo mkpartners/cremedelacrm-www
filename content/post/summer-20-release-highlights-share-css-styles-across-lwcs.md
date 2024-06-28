@@ -44,8 +44,6 @@ For an example of that in action, check out the sample in the release notes [ri
 
 Simple, straightforward, and a whole lot less time and effort than keeping your CSS branding guides elsewhere and manually applying them to each new component you build out!
 
-And, if you need a hand migrating your branded styling to the new CSS functionality, need help building LWCs to streamline your business processes, or even need more comprehensive support bringing your org inline with industry best practices, [drop us a line](https://www.mkpartners.com/contact/)! We're always happy to help.
-
 Stay tuned here for the rest of our favorite new features arriving in Summer '20 and, as always, keep working hard, smart, and happy.
 
 We'll see you in the cloud.

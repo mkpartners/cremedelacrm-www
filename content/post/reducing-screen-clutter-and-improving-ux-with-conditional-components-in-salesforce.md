@@ -54,6 +54,4 @@ And, because we put both instances in the same spot on the screen, users don’t
 
 And again, this is built-in Lightning functionality, so it works for everything you might want on a layout — related data, details, case or contact info — anything that you might not always want taking up screen real estate, but if it’s user-relevant at some point in the process, now you can limit it to just those specific instances! It’s a perfect tool for maximizing UX simplicity and usability, without sacrificing the details or data your organization relies on to be successful.
 
-So give it a shot in your processes today — your users will thank you. And, as always, if you need a hand getting set up, would like a more personalized look at opportunities to improve your Salesforce org, or need a hand taking your next project from “back of the napkin” to “live in production”, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE&utm_source=mkp&utm_medium=referral&utm_campaign=logigear-mkp-tpp)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. We’ll see you in the cloud.

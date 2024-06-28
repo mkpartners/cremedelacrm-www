@@ -37,5 +37,5 @@ While not a change, per se, Salesforce is an industry-leader in trust and securi
 ## And It’s Backward Compatible
 
 We’d all hoped, and Salesforce has confirmed — the shift to Hyperforce won’t hurt your existing apps, customizations, configurations, or integrations. Phew :).
-If you have any questions about how the change will affect your org, would like to learn more about Hyperforce to see if it helps you get past a previous purchasing hurdle, or just need a hand getting your existing org in-line with your current business processes — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
+
 Until next time, keep working hard, smart, and happy! We’ll see you in the cloud.

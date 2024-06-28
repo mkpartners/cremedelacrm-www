@@ -34,6 +34,4 @@ That's why we decided to build an organizational tech audit/analysis tool! As cl
 
 The front end is still being fine tuned, but you can follow [this link](https://news.mkpartners.com/TechAudit) to kick off your tech audit right now!
 
-And, as always, if you need help getting a new product or platform rolled out org-wide, [drop us a line](https://www.mkpartners.com/contact/)! We're happy to help. Until next time, keep working hard, smart, and happy.
-
 We'll see you in the cloud.

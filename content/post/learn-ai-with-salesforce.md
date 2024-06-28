@@ -33,6 +33,4 @@ And you can register right now, [right here](https://www.salesforce.com/form/eve
 
 Sign up today, and we’ll see you on the 15th!
 
-And, as always, if you want a more personalized look at how AI can transform your organization’s processes or just need some help getting your tech and vision aligned, [drop us a line](https://www.mkpartners.com/contact/)! We’re always happy to help.
-
 Until then, keep working hard, smart, and happy — we’ll see you in the cloud.

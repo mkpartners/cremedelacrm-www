@@ -54,8 +54,8 @@ _Commerce Cloud’s Dashboard Offerings Provides Both B2C & B2B Shoppers With Cu
 {{< image src="/img/1_T0GFd_35J13FP_IwQ9tHbQ.png">}}
 _Remember: Automotive Cloud Prevents Dealers From Cheaply “Baiting” For New Customers (Used Cars, 1980.)_
 
-**6. Analytics for Automotive:**Allows car companies insights to monitor & improve their business processes. It’s equipped with customizable dashboards which provide a deep-dive overview of sales & business performance, customer lifecycles, & revenue to deliver quicker & exceptional business reporting.
+**6. Analytics for Automotive:** Allows car companies insights to monitor & improve their business processes. It’s equipped with customizable dashboards which provide a deep-dive overview of sales & business performance, customer lifecycles, & revenue to deliver quicker & exceptional business reporting.
 
 {{< image src="/img/1_stAJrY4N6QWLF9v8yi9nYA.png">}}
 
-Here at MK Partners, we’ll be keeping a close eye on *Automotive Studio,*and its potential value for our clients in the industry. Of course, if you have any questions yourself, or need a hand with any of Salesforce’s suite of products — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help ease your commute through the cloud. And of course, stay tuned here for further updates regarding this extremely exciting platform in Commerce Cloud.
+And of course, stay tuned here for further updates regarding this extremely exciting platform in Commerce Cloud.

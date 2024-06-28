@@ -28,6 +28,4 @@ In this video you can have your very own org up and running in 5-minutes! (Well,
 
 Now you're all set to start setting up your org, objects, records, apps, automations, etc... however you want! In the next "How To" we'll talk setting up additional users, then branding and styling, and feel free to [let us know](http://www.twitter.com/mkpartners) your requests for future dev org "How To"s so we can add them to the schedule!
 
-As always, if you have any questions or need a little more in-depth help in your production environment, [drop us a line](https://www.mkpartners.com/contact/)!
-
 Until next time, keep working hard, smart, and happy --- and we'll see you in the cloud!

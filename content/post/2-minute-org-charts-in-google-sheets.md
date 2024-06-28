@@ -67,5 +67,7 @@ In Google Sheets, adding an in-cell line break is as easy as “**Alt+Enter**”
 {{< image src="/img/1_8PXxuL4GtZ1qPeh7q3mSHA.png" title="Image" >}}
 
 **NOTE: If you make changes to a name/title cell you’ll have to make sure those changes are reflected in the corresponding places in the righthand column for the chart to still align everyone correctly.**
-And now you’re all set! As always, if you have any other cloud-related technical questions, obstacles, etc… or need a hand getting your organization up to speed in 2021, [drop us a line](https://www.mkpartners.com/contact/)! We’re happy to help.
+
+And now you’re all set!
+
 And until next time, keep working hard, smart, and happy. We’ll see you in the cloud.

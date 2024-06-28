@@ -79,8 +79,6 @@ Now (as long as the creation/refresh queue isn’t too long), you’ll be set up
 
 In the coming weeks (once the release notes drop) we’ll take a look at the most exciting features headed our way and how you and your org will be able to leverage them into improved user-experiences, streamlined processes, and capturing even more Salesforce ROI!
 
-And if you’d like a more personalized look at how you and your team could benefit from the new functionality — [drop us a line](/contact)! We’ll be happy to discuss your use-case and which Salesforce features will have the biggest impact on your business.
-
 Until then, keep working hard, smart, and happy — and we’ll see you in the cloud!
 
 _[Update: [The release notes are here](https://releasenotes.docs.salesforce.com/en-us/spring20/release-notes/salesforce_release_notes.htm)!]_

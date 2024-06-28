@@ -21,8 +21,10 @@
 ---
 
 Whether it’s Pardot’s nominal transition to Marketing Cloud Account Engagement, a “platform migration” for your marketing team, or a “new job, new tech-stack” situation — it seems more and more Marketers and Salesforce (and/or Pardot) Admins are picking up Marketing Cloud.
+
 As a user of both, but certified in Pardot before my introduction to MC, I figured I could lend a hand providing the “translations” I wish I had during my learning curve.
 I’d know exactly what I want to do in Pardot, but have the hardest time making sense of where similar functionality would live in Marketing Cloud. Segmentation Lists, Data Extensions, Engagement Programs, Journeys, Prospects, Contacts — there’s almost a shared language, but sometimes the “grammar” is so different they’re incomprehensible.
+
 So this series is that. “Here’s what I want to do in Pardot — Here’s how I do it in Marketing Cloud”. Today, it’s automating a segmentation list / creating a Dynamic List in Marketing Cloud.
 
 ## Automating a Segmentation List
@@ -32,6 +34,7 @@ What we want is to automate the production and maintenance of a list of Prospect
 ## Pardot
 
 Pardot “speakers” will recognize this functionality as a Dynamic List (or an Automation Rule in certain circumstances).
+
 Create the Dynamic List (in Prospects -&gt; Segmentation Lists -&gt; “+ Add List”)
 {{< image src="/img/1_s_rgDAglQmDVJ-EnD8iGNw.png" title="Image" >}}
 
@@ -46,9 +49,13 @@ And now you can invoke your list in List Email or Engagement Program — eas
 ## In Marketing Cloud
 
 In Marketing Cloud, we’re going to filter one of our Data Sources or Data Extensions, and save those Contacts to a new Data Extension — which we’ll then be able to target in our Email Send or Journey.
+
 So first, we need to decide which pieces of our Marketing Cloud data we’d like to filter. If you already have your Audience broken out into lists and sub-lists, pick the one you’d like to filter, and jump ahead (scroll until you see “find the tiny tiny filter button””).
+
 But, if you’re new to Marketing Cloud, you likely just finished getting your Salesforce sync set up (and it is!) and you’re wondering why you’re not seeing anybody in your Subscriber List or All Contacts.
+
 That’s a post for another day, but let’s get you some Prospects er, sorry, Contacts.
+
 Head to Email Studio
 {{< image src="/img/1_jQapyFr983WEcXmOBdMtuw.png" title="Image" >}}
 
@@ -65,6 +72,9 @@ Give your new Data Extension a name you’ll recognize, put it in the appropriat
 {{< image src="/img/1_2rmUMX59BKYSZUEYfOkI9Q.png" title="Image" >}}
 
 And now you have a Data Extension you can use in Your Email or Journey! And, just like a Dynamic List, when they enter the list, by meeting the criteria, they can be sent straight into the appropriate journey!
+
 Congratulations! You just created a Dynamic List in Marketing Cloud!
-Hope that helped. As always, if you have additional Marketing Cloud/Pardot questions, need a hand getting more out of your org’s Salesforce, or want to build an AppExchange app — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
+
+Hope that helped.
+
 And, if you have “translations” you’d like to see from Pardot to Marketing Cloud — drop ’em in the comments. Until next time, keep working hard, smart, and happy. We’ll see you in the cloud.

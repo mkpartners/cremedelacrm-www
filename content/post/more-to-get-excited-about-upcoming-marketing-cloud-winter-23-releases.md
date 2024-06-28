@@ -35,10 +35,8 @@ In summary, if your org is using **_Sprout Social_**, all that data will now**\*
 **The main benefits include:**
 
 1. **Connecting all organic and paid social media data:** Social data can be combined in detail with web analytics, sales, and Intelligence.
-
-1. **Uncover omni-channel insights in one platform:** Performance can be further analyzed with interactive cross-channel dashboards and various reports.
-
-1. **Optimizing social performance:** Gain insight into social data next to your existing marketing data for spend and revenue optimization.
+2. **Uncover omni-channel insights in one platform:** Performance can be further analyzed with interactive cross-channel dashboards and various reports.
+3. **Optimizing social performance:** Gain insight into social data next to your existing marketing data for spend and revenue optimization.
 
 **_Ecommerce Marketing Insights App:_**
 
@@ -47,11 +45,7 @@ Ready to connect your Ecommerce sales directly to your marketing efforts? The Ec
 **The mainline benefits include:**
 
 1. **Optimize your RoAS:**Out of the box insights help you spend budget budget more efficiently, while driving greater sales and revenue.
-
-1. **Uncover product and campaign optimizations:**Personalize your marketing and ecommerce programs based on outbound messaging performance.
-
-1. **Harmonize ecommerce and marketing data.**Native integrations let you quickly connect all of your marketing and ecommerce data into a single view.
-
-And, while the setup/connector windows do look super easy to use, as always if you need a help getting up and running — just [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always here to lend a hand implementing the solutions your org needs to maximize the value you get from the platform.
+2. **Uncover product and campaign optimizations:**Personalize your marketing and ecommerce programs based on outbound messaging performance.
+3. **Harmonize ecommerce and marketing data.**Native integrations let you quickly connect all of your marketing and ecommerce data into a single view.
 
 We’ll see you in the cloud!

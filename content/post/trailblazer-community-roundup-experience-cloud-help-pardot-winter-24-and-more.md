@@ -8,7 +8,7 @@
   "title": "Trailblazer Community Roundup: Experience Cloud Help, Pardot, Winter ’24, and More!",
   "Slug": "trailblazer-community-roundup-experience-cloud-help-pardot-winter-24-and-more",
   "description": "As Dreamforce shrinks in our rear view mirrors, the Winter ’24 Release rises over the horizon.",
-  "tags": ["trailblazer", "dever", "administrator", "communities"],
+  "tags": ["trailblazer", "administrator", "communities"],
   "author":
     {
       "name": Chris Stegall,

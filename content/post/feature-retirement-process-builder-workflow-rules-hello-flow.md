@@ -30,10 +30,11 @@ Like all much-used features facing retirement, Salesforce is giving admins, user
 **Spring 22:** Will introduce a migration tool for Workflow Rules.
 **Summer 22:** Will introduce a migration tool for Process Builder.
 **Winter 23:** Will mark the official retirement/deprecation and you’ll no longer be able to create new Workflow Rules or Process Builders from there on out.
+
 So, about a year from today, we’ll all be using Flow when it’s time to build a new in-org automation and, in the interim, there’ll be plenty of opportunity to transition your existing processes over as well.
 
 ## What Will Happen to My Existing Process Builders and Workflow Rules?
 
 Besides delivering tools to make migration easy, there’s also explicit indication from Salesforce that existing PBs and WRs will be deactivated. In all likelihood they’ll go the way of S-controls and, while you won’t be able to create new ones, you’ll still be able to tweak your pre-existing programs. But, while it may be tempting to take the “if it aint broke don’t fix it” approach, the added functionality of Flow, it’s continued support and updates with releases, and the fact that retired features make it harder to find qualified staff to work on them, should be all the incentive you need to start planning an effective transition.
-And, if you need a hand with that migration, want to use it as an opportunity to bring your automations in line with best practices, or just want a second opinion on exactly which of your automations will need to be adjusted — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help, and big changes like this are exactly the kind of thing our 15+ years of Salesforce experience give us unique insight on.
+
 Until then, keep working hard, smart, and happy. And we’ll see you in the cloud.

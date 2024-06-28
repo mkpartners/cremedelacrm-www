@@ -56,8 +56,6 @@ Again, there’s likely no reason to be alarmed, but when we see documentation f
 
 So now you know! Summer ’23 is delivering one super helpful time saver that feels like it’s almost overdue for an appearance on the platform, and a warning that one feature was announced a bit prematurely and ought to be avoided for now.
 
-As always, if you’d like a more personalized look at your org and conversation about how the Summer ’23 Release will affect you, [drop us a line](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 And until next time, keep working hard, smart, and happy.
 
 We’ll see you in the cloud!

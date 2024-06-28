@@ -34,6 +34,4 @@ Second, a bit of housekeeping --- or house moving, as it were. Salesforce releas
 
 It's not a huge change in terms of styling, no change in terms of content, so the only thing likely to be affected is all those old links in blogs, training decks, Trailheads, etc... --- time to get scraping and updating!
 
-As always, if you have any questions about specifics in the Spring '21 Release, want a more personalized look at how changes might affect your org, or just need help getting your org's processes to match your business' --- [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We're always happy to help.
-
 Until next time, keep working hard, smart, and happy. We'll see you in the cloud.

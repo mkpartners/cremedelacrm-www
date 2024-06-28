@@ -22,8 +22,8 @@
 
 **Updated: 03/26/2024**
 It’s a new year which means new calendars on the walls, a few weeks of scribbling out “23”s for “24”s when writing dates, and, most excitingly, a brand new collection of Salesforce events to look forward to!
+
 Below you’ll find the upcoming events for Trailblazers all over the world. From Salesforce-hosted gatherings to local and international Community groups and even industry/vertical-specific events.
-And, if we missed one, let us know in the comments, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE&legacy=true), or [shoot me an email](mailto:cstegall@mkpartners.com) so we can get it added to the board! So check ’em out, and let us know which you’re most looking forward to this year!
 
 ## UP NEXT
 

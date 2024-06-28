@@ -116,6 +116,4 @@ Security Token: XXXXXXXXXXXXXXXXXX
 
 And now you’re all set! You can use that security token in whatever new situation you have planned and you won’t break any of your existing connections!
 
-If you still need a hand getting your security token sorted out, want some help building the integration that would make your job easier, or just need some oversight to ensure your org’s in line with best practices — [drop us a line](/contact)! [We’re here to help](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE&fbclid=IwAR38kpRGAPJb5T-T-IwqQIkE55Lb7xqArR9qnRFBQffZbgxay0k8gTrzkgE).
-
 In the meantime, keep working hard, smart, and happy. And we’ll see you in the cloud.

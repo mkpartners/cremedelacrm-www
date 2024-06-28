@@ -56,8 +56,4 @@ Most calls are free ([with some stipulations](https://support.google.com/hangout
 
 Now you’re all set to save your calls!
 
-And if, after your call, your organization still needs help smoothing the transition from “face-to-face” to “remote”, [drop us a line](/contact)! We’re always happy to help.
-
-As always, [stay tuned here](https://pardot.mkpartners.com/subscribe) for more remote work tools, tips, and tricks, and the latest and greatest in the world of [Salesforce](https://www.salesforce.com/products/). Keep working hard, smart, and happy!
-
 We’ll see you in the cloud.

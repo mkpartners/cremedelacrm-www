@@ -5,16 +5,7 @@
   "title": 'Salesforce "How To" ABCs: H',
   "Slug": "salesforce-how-to-abcs-h",
   "description": "How to Hide Fields in Salesforce...",
-  "tags":
-    [
-      "salesforce",
-      "hidden",
-      "hide",
-      "fields",
-      "administrator",
-      "tutorial",
-      "page-layout",
-    ],
+  "tags": ["fields", "administrator", "tutorial", "page-layout"],
   "author":
     {
       "name": "Chris Stegall",

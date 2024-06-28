@@ -59,6 +59,4 @@ Here is a quick summary along with up to date pricing information of the feature
 
 {{< image src="/img/0_Za9To9vv4Dx85t6T.png">}}
 
-As always, if you have ideas for additional functionality you’d like to see rolled out in the future, or want some help configuring and customizing your Salesforce org to make your users’ happier and more effective, [drop us a line](https://www.mkpartners.com/contact/)! We’re always happy to help.
-
 Until next time. We’ll see you in the cloud.

@@ -30,6 +30,4 @@ And, if you finished the scavenger hunt, we're dying to know what you won!
 
 Again, if you missed any of the event last week, the recordings are [all available online](https://medium.com/creme-de-la-crm/dreamforce-2020-highlights-recordings-and-more-2e54a6c96d73), and you have all year to get caught up to speed before next year's Dreamforce.
 
-If you need some Salesforce help before then, whether you're just getting started on the platform, need a hand designing an app that better aligns Salesforce with your internal processes, or anything in between --- [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We're always happy to help.
-
 Until next year, keep working hard, smart, and happy. We'll see you in the cloud.

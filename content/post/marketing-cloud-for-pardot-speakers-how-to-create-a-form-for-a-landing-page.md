@@ -21,8 +21,10 @@
 ---
 
 My trailblazer career began by compiling emails with custom redirects, building out forms and mapping them to landing pages. Followed by reviewing engagement metrics and analyzing prospect behaviors. With all the changes in the “Pardot” horizon, some of which are taking place as we speak, it’s no surprise that the latest naming convention is something everyone will need to adapt as Marketing Cloud Account Management (MCAM) will eventually be the name everyone will be using and the “Pardot” name will go down in the history books.
+
 New or existing Pardot Users will begin to further expand their knowledgebase and skills by utilizing more and more of the tools Marketing Cloud (MC) has to offer. As I am currently transitioning, I’ve come to realize there is a learning curve in place. But don’t worry, it’s not as bad as one would think. Let me share some helpful tips I picked up along the way.
 Because there are many tools within MC, we’ll begin by outlining the steps necessary to build a Landing Page (LP) followed by adding a form to it. Followed by outlining the differences and sharing some helpful tips. With that said, let’s get started. Before we do, we must quickly address how data is collected between “Pardot” and MC.
+
 Inside “Pardot” forms are created by defining unique attributes like name, tags, domain, etc. Followed by defining the prospect default or custom fields with a type and data format.
 {{< image src="/img/0_NUMDsqE0E9DHr-F_.png" title="Image" >}}
 
@@ -68,5 +70,5 @@ Once published you can go ahead and test your form to adjust as needed by going 
 {{< image src="/img/0_8cUSia_LnBOhUwBL.png" title="Image" >}}
 
 Now taking a step back we can see that building a form within MC requires a few more steps than doing it within Pardot. Knowing what field(s) data you wish to collect helps identify what type of data target to use. Referencing the helpful article provided previously we know that DTs help support multiple data sets and separate definitions as well as better for importing and sending based on triggers. We hope this has helped you better understand the steps needed to get your first form up and running on MC.
-Of course, if you need some extra help, have other Salesforce, Pardot, or Marketing Cloud requirements, or have a vision for your broader Salesforce org but need some insight to help build it out — [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always here to help.
+
 Thanks for sticking around and we’ll see you in the cloud.

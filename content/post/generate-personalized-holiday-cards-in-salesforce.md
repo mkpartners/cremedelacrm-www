@@ -30,8 +30,6 @@ In today’s video, Chris and Jesus take a look at their [Mambo Merge](https://w
 
 Give it a watch and then head over to the [AppExchange to install Mambo Merge](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000MBinOEAT) in your org for free! There’s still time to get your “New Years” cards personalized, printed, and out the door!
 
-And, if you have any questions, need a hand getting set up, or have an idea for another use case you’d like to apply Mambo Merge too, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy.
 
 We’ll see you in the cloud.

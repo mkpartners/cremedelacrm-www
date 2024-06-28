@@ -53,6 +53,4 @@ Then give it a minute (or several). Depending on the number of records, it can t
 
 But the good news is, it’s actually possible to index an even wider variety, you just need to enlist the help of Salesforce support. For both standard and custom objects, Salesforce support is usually pretty speedy at implementing your requested index, and can even handle some tricky request-cases, like including null rows in your index. Simply open a ticket, outline your desired field to be indexed, and let them handle the heavy lifting behind the scenes! Just be sure to thank your support agent when it’s all done.
 
-Of course, if you still need a hand getting those queries built and running to spec, or just getting more out of your org in general, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

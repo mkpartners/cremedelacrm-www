@@ -28,6 +28,4 @@ In this short video, Robert walks through a typical use case for dependent pickl
 
 It's as easy as that!
 
-Of course, if you need some additional help setting up your dependencies, want insight into other industry best-practices, or want to reconfigure your Salesforce org from the ground up to better match your use-case, [drop us a line](https://www.mkpartners.com/contact/)! We're always happy to help.
-
 And if you liked the video above, don't forget to subscribe to [our YouTube channel](https://www.youtube.com/c/MkpartnersHQ/videos) to get brand new how-to's, Salesforce news, and more as soon as it goes live. Until next time, keep working hard, smart, and happy. We'll see you in the cloud.

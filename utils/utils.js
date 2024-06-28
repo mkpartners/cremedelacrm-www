@@ -1,55 +1,65 @@
-const fs = require('node:fs')
-const axios = require('axios')
-const path = require("path")
+const fs = require("node:fs");
+const axios = require("axios");
+const path = require("path");
 
 exports.callOut = async (req) => {
-  if (req.method === 'post'){
-    return await axios.post( req.url, req.data, req.headers )
-  }
-  else if ( req.method === 'get' ){
-    let options = {};
-    if ( req.params ){
+  if (req.method === "post") {
+    return await axios.post(req.url, req.data, req.headers);
+  } else if (req.method === "get") {
+    const options = {};
+    if (req.params) {
       options.params = req.params;
     }
-    if ( req.headers ){
-      options.headers = req.headers
+    if (req.headers) {
+      options.headers = req.headers;
     }
-    return await axios.get( req.url, options);
+    return await axios.get(req.url, options);
   }
-}
+};
 
 exports.cleanFileName = (fileName) => {
-  return fileName.replace('max/1024/','').replace(/\*/g,'_').replace(/-/g,'_');
-}
+  return fileName
+    .replace("max/1024/", "")
+    .replace(/\*/g, "_")
+    .replace(/-/g, "_");
+};
 
-exports.downloadImage = async (url, fileName) =>{
+exports.downloadImage = async (url, fileName) => {
   const dir = path.resolve(__dirname, "../assets/img/", fileName);
   console.log(url, dir);
   await axios({
     method: "get",
-    url: url,
-    responseType: "stream"
-  }).then(res => {
+    url,
+    responseType: "stream",
+  }).then((res) => {
     res.data.pipe(fs.createWriteStream(dir));
     res.data.on("end", () => {
       console.log("download complete");
     });
   });
-}
+};
 
 exports.saveFile = async (fileName, fileContent) => {
   console.log(fileName);
-  fs.writeFile(fileName, fileContent, err => {
+  fs.writeFile(fileName, fileContent, (err) => {
     if (err) {
       console.error(err);
       console.error("saveFile error");
     }
   });
-}
+};
 
-exports.readFile = async (fileName) => {
-  return fs.readFileSync(fileName);
-}
+exports.getDirectory = async (dirName) => {
+  return await fs.readdirSync(dirName);
+};
+
+exports.readFile = async (fileName, encoding) => {
+  if (encoding) {
+    return await fs.readFileSync(fileName, encoding);
+  } else {
+    return await fs.readFileSync(fileName);
+  }
+};
 
 /**
  * @name substringafter
@@ -57,9 +67,9 @@ exports.readFile = async (fileName) => {
  */
 exports.substringafter = (txt, after) => {
   let result;
-  if (typeof txt === 'string' && typeof after === 'string') {
-    let afterIndex = txt.indexOf(after) + after.length;
-    let _txt = txt.substring(afterIndex);
+  if (typeof txt === "string" && typeof after === "string") {
+    const afterIndex = txt.indexOf(after) + after.length;
+    const _txt = txt.substring(afterIndex);
     result = _txt;
   }
   return result;
@@ -71,9 +81,9 @@ exports.substringafter = (txt, after) => {
  */
 exports.substringafterlast = (txt, after) => {
   let result;
-  if (typeof txt === 'string' && typeof after === 'string') {
-    let afterIndex = txt.lastIndexOf(after) + after.length;
-    let _txt = txt.substring(afterIndex);
+  if (typeof txt === "string" && typeof after === "string") {
+    const afterIndex = txt.lastIndexOf(after) + after.length;
+    const _txt = txt.substring(afterIndex);
     result = _txt;
   }
   return result;
@@ -85,9 +95,9 @@ exports.substringafterlast = (txt, after) => {
  */
 exports.substringbefore = (txt, before) => {
   let result;
-  if (typeof txt === 'string' && typeof before === 'string') {
-    let beforeIndex = txt.indexOf(before);
-    let _txt = txt.substring(0, beforeIndex);
+  if (typeof txt === "string" && typeof before === "string") {
+    const beforeIndex = txt.indexOf(before);
+    const _txt = txt.substring(0, beforeIndex);
     result = _txt;
   }
   return result;
@@ -99,9 +109,9 @@ exports.substringbefore = (txt, before) => {
  */
 exports.substringbeforelast = (txt, before) => {
   let result;
-  if (typeof txt === 'string' && typeof before === 'string') {
-    let beforeIndex = txt.lastIndexOf(before);
-    let _txt = txt.substring(0, beforeIndex);
+  if (typeof txt === "string" && typeof before === "string") {
+    const beforeIndex = txt.lastIndexOf(before);
+    const _txt = txt.substring(0, beforeIndex);
     result = _txt;
   }
   return result;
@@ -114,9 +124,9 @@ exports.substringbeforelast = (txt, before) => {
 exports.substringbetween = (txt, after, before) => {
   let result;
   if (
-    typeof txt === 'string' &&
-    typeof before === 'string' &&
-    typeof after === 'string'
+    typeof txt === "string" &&
+    typeof before === "string" &&
+    typeof after === "string"
   ) {
     let _txt = this.substringafter(txt, after);
     _txt = this.substringbefore(_txt, before);
@@ -132,9 +142,9 @@ exports.substringbetween = (txt, after, before) => {
 exports.substringbetweenfirstandlast = (txt, after, before) => {
   let result;
   if (
-    typeof txt === 'string' &&
-    typeof before === 'string' &&
-    typeof after === 'string'
+    typeof txt === "string" &&
+    typeof before === "string" &&
+    typeof after === "string"
   ) {
     let _txt = this.substringafter(txt, after);
     _txt = this.substringbeforelast(_txt, before);
@@ -145,14 +155,13 @@ exports.substringbetweenfirstandlast = (txt, after, before) => {
 
 //      //<a href="https://www.salesforce.com/products/sales-pricing/">Sales Cloud</a>
 
-exports.parseATag = (tag) =>{
+exports.parseATag = (tag) => {
   const res = {};
-  if ( tag.indexOf('href="') > 0 ){
-    res.href = this.substringbetween(tag,'href="','"');
+  if (tag.indexOf('href="') > 0) {
+    res.href = this.substringbetween(tag, 'href="', '"');
+  } else if (tag.indexOf("href='") > 0) {
+    res.href = this.substringbetween(tag, "href='", "'");
   }
-  else if ( tag.indexOf("href='") > 0 ){
-    res.href = this.substringbetween(tag,"href='","'");
-  }
-  res.innerHTML = this.substringbetween(tag,'>','<');
+  res.innerHTML = this.substringbetween(tag, ">", "<");
   return res;
-}
+};

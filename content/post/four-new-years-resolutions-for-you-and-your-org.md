@@ -65,6 +65,4 @@ Every year Dreamforce helps thousands of orgs reach their potential and, whateve
 
 {{< image src="/img/new-year-card.jpg" title="New year card next to tree branches" >}}
 
-So start making your resolutions and get a jump start on 2020! As always, if you need a hand transforming your goals from vision to reality, [drop us a line](/contact) — we’re always happy to help.
-
 And for the rest of December, keep working hard, smart, and happy. We’ll see you in the cloud.

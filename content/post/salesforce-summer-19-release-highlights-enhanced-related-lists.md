@@ -53,8 +53,6 @@ To see just how similar the end results can be (and to watch a pro work her way 
 
 {{< youtube id="OVY6EV0w07g" >}}
 
-If you have any questions about the [Enhanced Related Lists](https://medium.com/tag/summer-19-release/archive) (Beta), want to see it in action in your org, or need a hand building exactly the views your users are asking for — [drop us a line](/contact)! We’re here to help.
-
 And then stay tuned here for our next installment of Summer ’19 Release Highlights, next time we’ll be talking branding, colors, and UI design!
 
 In the meantime, keep working hard, smart, and happy — and we’ll see you in the cloud.

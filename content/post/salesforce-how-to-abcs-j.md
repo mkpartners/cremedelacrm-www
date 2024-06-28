@@ -55,6 +55,4 @@ Same as before make sure to give your report a name and save it. Customize the c
 
 Once it looks all good, go ahead and run it to see what the output looks like.
 
-Of course, if you still need a hand getting started to build and run some joined reports to spec, or just getting more out of your org in general, [drop us a line](https://appexchange.salesforce.com/appxConsultingListingDetail?listingId=a0N30000001gF9jEAE)! We’re always happy to help.
-
 Until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

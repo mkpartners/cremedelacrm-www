@@ -32,6 +32,4 @@ The idea is to give admins everywhere a chance to test the MFA waters with a few
 
 So, [sign up, set up, and collect that swag](https://astroplushiegiveaway.splashthat.com/)!
 
-And, if you need a hand rolling out MFA in your org, have broader security best-practice questions, or are looking for help configuring and customizing your Salesforce experience, [drop us a line](https://www.mkpartners.com/contact/)! We're always happy to help.
-
 Until next time, keep working hard, smart, and happy. We'll see you in the cloud.

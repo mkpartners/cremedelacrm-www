@@ -30,6 +30,6 @@ Voting is only open for two weeks at a time (consider it open enrollment for the
 
 Now head over to the [IdeaExchange](https://ideas.salesforce.com/s/prioritization) and cast your own votes for the features, upgrades, and updates you’d most like to see in your org!
 
-We’re right on the cusp of the [Spring ’20 release](https://releasenotes.docs.salesforce.com/en-us/spring20/release-notes/salesforce_release_notes.htm), so stay tuned here for more highlights of our favorite coming-soon features and, as always, if you have Salesforce questions, issues, or need help making your org work better for your business — [drop us a line](/contact)!
+We’re right on the cusp of the [Spring ’20 release](https://releasenotes.docs.salesforce.com/en-us/spring20/release-notes/salesforce_release_notes.htm), so stay tuned here for more highlights of our favorite coming-soon features.
 
 Until next time, keep working hard, smart, and happy! And we’ll see you in the cloud.
