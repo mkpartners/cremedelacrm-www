@@ -1,12 +1,14 @@
 # toml-docs-start main
-title = "Hinode"
-copyright = "Copyright © 2024 Mark Dumay."
+title = "Creme de la CRM"
+copyright = "Copyright © 2024 Creme de la CRM"
+description = "Your source for all things Salesforce"
+endorse = false
 paginate = 9
 enableGitInfo = true
 # toml-docs-end main
 
 # additional settings
-baseURL = "https://example.com/"
+# baseURL = "https://example.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -18,7 +20,7 @@ summaryLength = 20
 ignoreErrors = ["error-remote-getjson"]
 
 # toml-docs-start timeout
-timeout = "180s"
+timeout = "240s"
 # toml-docs-end timeout
 
 # toml-docs-start language
@@ -73,7 +75,7 @@ home = ["HTML", "RSS", "REDIR"]
   [services.twitter]
     disableInlineCSS = true
   [services.googleAnalytics]
-    # ID = "G-xxxxxxxxxx"
+    ID = "G-5J2YGH2W74"
 
 [outputFormats]
   [outputFormats.XML]
@@ -85,6 +87,7 @@ home = ["HTML", "RSS", "REDIR"]
     name = "xml"
 
 [minify]
+  disableJS = false
   [minify.tdewolff.js]
     keepVarNames = true
     precision = 0

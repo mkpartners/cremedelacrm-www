@@ -80,6 +80,7 @@ The installation instructions in this readme install Hinode as a regular Hugo th
 <summary>Installation notes for Windows</summary>
 
 The installation for Windows requires PowerShell v7. Download it from the Microsoft Store as needed. Check your current version with the command `$PSVersionTable`.
+
 </details>
 <!-- markdownlint-enable MD033 -->
 
@@ -87,23 +88,23 @@ Start a new Hinode project in three steps:
 
 1. **Create a new site**
 
-    ```bash
-    hugo new site my-hinode-site && cd my-hinode-site
-    ```
+   ```bash
+   hugo new site my-hinode-site && cd my-hinode-site
+   ```
 
 2. **Initialize the module system**
 
-    ```bash
-    hugo mod init example.com/my-hinode-site
-    echo "[[module.imports]]" >> hugo.toml
-    echo "path = 'github.com/gethinode/hinode'" >> hugo.toml
-    ```
+   ```bash
+   hugo mod init example.com/my-hinode-site
+   echo "[[module.imports]]" >> hugo.toml
+   echo "path = 'github.com/gethinode/hinode'" >> hugo.toml
+   ```
 
 3. **Start a development server**
 
-    ```bash
-    hugo server
-    ```
+   ```bash
+   hugo server
+   ```
 
 ## Configuration
 
@@ -123,7 +124,9 @@ Hinode is inspired by the following themes:
 ## Donate
 
 <!-- markdownlint-disable MD033 -->
+
 <a href="https://www.buymeacoffee.com/markdumay" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;"></a>
+
 <!-- markdownlint-enable MD033 -->
 
 ## License
@@ -131,6 +134,7 @@ Hinode is inspired by the following themes:
 The `hinode`, `docs`, and `template` codebase is released under the [MIT license][license]. The documentation of Hinode is licensed under the Creative Commons [(CC BY-NC 4.0)][cc-by-nc-4.0] license. This includes all files within the repository's `/content` and `/exampleSite/content` folders and their children, as well as the "README" in the repository root. This applies to all public repositories maintained by `gethinode` on GitHub, including the `gethinode/hinode`, `gethinode/template`, and `gethinode/docs` repositories, unless specified otherwise.
 
 <!-- MARKDOWN PUBLIC LINKS -->
+
 [blist]: https://github.com/apvarun/blist-hugo-theme
 [bootstrap]: https://getbootstrap.com
 [cc-by-nc-4.0]: https://creativecommons.org/licenses/by-nc/4.0/
@@ -147,6 +151,7 @@ The `hinode`, `docs`, and `template` codebase is released under the [MIT license
 [pagespeed]: https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethinode.com%2F
 
 <!-- MARKDOWN MAINTAINED LINKS -->
+
 [contribute]: https://gethinode.com/contribute
 [getstarted]: https://gethinode.com/docs
 [golang_download]: https://go.dev/dl/

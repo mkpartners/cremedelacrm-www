@@ -23,6 +23,7 @@
     "start:prod": "npm run -s prestart  && hugo server --bind=0.0.0.0 --disableFastRender --printI18nWarnings --minify -e production",
     "start:example:prod": "npm run -s prestart  && hugo server --bind=0.0.0.0 --disableFastRender --printI18nWarnings --minify -e production -s exampleSite",
     "prebuild": "npm run clean:public && npm run -s mod:vendor",
+    "buildOld": "hugo --gc --minify --debug --verbose",
     "build": "hugo --gc --minify",
     "build:cache": "npm run -s prebuild && hugo config | grep cachedir && hugo --gc --minify -e ci",
     "build:example": "npm run -s prebuild && hugo --gc --minify -s exampleSite",
@@ -69,10 +70,12 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^6.0.0",
     "autoprefixer": "^10.4.19",
+    "axios": "^1.7.2",
     "cssnano": "^7.0.2",
     "cssnano-preset-advanced": "^7.0.2",
     "hugo-bin": "0.124.0",
-    "purgecss-whitelister": "^2.4.0"
+    "purgecss-whitelister": "^2.4.0",
+    "rss-to-json": "^2.1.1"
   },
   "devDependencies": {
     "@gethinode/netlify-plugin-dartsass": "^0.3.0",

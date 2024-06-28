@@ -1,15 +1,12 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Dreamforce Registration is Open
+description: Register today to attend on September 17 in San Francisco.
 thumbnail:
-    url: /img/sunrise.jpg
-    author: Harris Vo
-    authorURL: https://unsplash.com/@hoanvokim
-    origin: https://unsplash.com/photos/ZX6BPboJrYk
-    originName: Unsplash
+  url: /img/1_uHUAaq9S_X25WDsUbwbcXg.png
+  author: Chris Stegall
 actions:
   get-started:
-    url: "https://gethinode.com/docs"
-    title: "Get started"
+    url: "post/dreamforce-registration-is-open/"
+    title: "Read more"
     icon: "fas book-open"
 ---
