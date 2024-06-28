@@ -1,7 +1,5 @@
 # Hugo Theme Hinode
 
-# CDLC
-
 <!-- markdownlint-disable MD033 -->
 <!-- Tagline -->
 <p align="center">
