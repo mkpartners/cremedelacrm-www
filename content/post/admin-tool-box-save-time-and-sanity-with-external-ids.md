@@ -21,8 +21,11 @@
 ---
 
 Salesforce orgs are only as good as their data, so making sure your imports and upserts are up to snuff is step one for every awesome admin. When your users are eager to get up and running, finding that sweet spot between data sanitation/management and speed is key.
+
 In today’s post we’ll take a look at one of our favorite time-tested import tricks: Data Loader + External IDs, and why they ought to be a part of every admin’s arsenal.
+
 Let’s jump in!
+
 **Note: if you need help **[](https://medium.com/creme-de-la-crm/salesforce-faqs-how-to-install-data-loader-648fd6ab9835)**.**
 
 ## What are External IDs?
@@ -35,6 +38,7 @@ Let’s say you have a spreadsheet of contacts, ready for import, that looks lik
 {{< image src="/img/1_2mMgnk6Mx4dVePomv9wbag.png" title="Image" >}}
 
 Marketing sent it over, and they need you to create or update the records accordingly. As you can see, we’ve got names, email addresses, companies, etc… but no External IDs. So, how do you make your own?
+
 It’s as simple as adding another column. Call it whatever you’d like, here we’ll opt for something clear like ‘ExternalID’ and then simply increment down the column so that each record will have a unique ID assigned.
 {{< image src="/img/1_kptLsgwUKTNYJaXjYDnsGA.png" title="Image" >}}
 
@@ -46,7 +50,9 @@ Now, when you run Data Loader, you’ll be able to reference that External ID to
 ## Benefits of External IDs
 
 First and foremost, say you got a .csv for upsert that just contains contact names and the companies they work for. You want to relate these records to existing accounts where possible, but there’s no guarantee that the “company name” field will perfectly match the Account names in your org (especially if it’s a spreadsheet someone made by hand). Using External IDs, all you’ll need to do is add a column and populate it with the External IDs of the relevant existing accounts — that way when you do your upsert the contacts will all automatically take on the appropriate parent/child relationship, no VLOOKUPS needed! It saves a lot of time, but it’s only possible if you already have an ExternalID assigned to the accounts, which is why it’s a good habit to get into, anytime you’re using Data Loader.
+
 The second benefit is troubleshooting. If there’s ever an issue with your import, it’s much easier to sift through the results and find the corresponding issues in your import sheet via those External IDs, than it is to try to sort through by name, email address, etc… , looking for the issue.
+
 And the third perk of Data Loader + External IDs is data cleanup. It’s significantly easier to find records that were imported by the External ID field as opposed to records that were created manually which is why, even on super small batches or imports, experienced admins prefer to use Data Loader as opposed to just creating the record in-org. It’s one of those small tricks that might take an extra minute at the top, but can potentially save you hours (and headaches) down the road!
 
 ## Give it a Try

@@ -29,6 +29,7 @@ TDX isn’t just a conference — like Dreamforce, it’s a gathering of Tra
 {{< image src="/img/1_pckae1dxlWvnY_IX__51xw.png" title="Image" >}}
 
 In fact, what began as a developer conference has grown it’s audience over the years with the rapid gains Salesforce has made with low and no code tools. In fact, where the ‘D’ in ‘[TDX](https://www.salesforce.com/trailblazerdx)’ at one point stood for ‘Developer’, in recent years it’s been presented as both ‘[TrailblazerDX](https://www.salesforce.com/trailblazerdx)’ and ‘[TrailheadDX](https://www.salesforce.com/trailblazerdx)’ as the scope and invite list has expanded.
+
 So now, whether you’re a seasoned developer, an aspiring admin, or a business leader embracing digital transformation, TDX brings us all together in a shared celebration of innovation and learning. The sense of camaraderie and support within the Salesforce community is truly heartwarming and consistently one of the best things about these events.
 
 ## Product Announcements and Insights
@@ -58,5 +59,7 @@ Last but certainly not least, TDX is an experience like no other. From the elect
 {{< image src="/img/1_kLYM2mxFSGPwbx1_A1IKzA.png" title="Image" >}}
 
 As we countdown to this year’s TDX, we’re filled with gratitude for the incredible experiences, opportunities, and connections that this conference brings into our lives every year.
-So here’s to [TDX ](https://www.salesforce.com/trailblazerdx)— a beacon of innovation, inspiration, and community — an event with a lot to love. Happy Valentine’s Day, Trailblazers!
+
+So here’s to [TDX](https://www.salesforce.com/trailblazerdx) — a beacon of innovation, inspiration, and community — an event with a lot to love. Happy Valentine’s Day, Trailblazers!
+
 We’ll see you in the cloud.

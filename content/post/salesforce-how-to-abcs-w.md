@@ -21,13 +21,17 @@
 ---
 
 Getting your users access to your org is one of the most important parts of being an admin. After all, if they can’t log in, they can’t use the platform! And, as network security continues to improve, ensuring that your users and systems aren’t locked out by over-ambitious security protocols is more important than ever.
+
 And that makes this the perfect time for another installment of our Salesforce “How to” ABCs! The series where we tackle the most commonly Googled Salesforce questions, letter by letter, to help Trailblazers find the answers they’re looking for fast!
+
 Today’s letter is “W” as in, “How to Whitelist (Allowlist) and IP address”. Let’s dive in!
 
 ## What is Whitelisting (Allowlisting)?
 
 In the same way that only certain individuals are able to attend certain events (think invites to a wedding, or tickets to a concert), devices must also provide the necessary credentials to access select systems or networks.
+
 Each device connected to the Internet has an IP address and, by using the IP address, a device can be added to a Whitelist (Allowlist) in order to be granted the necessary credentials and establish access to the necessary org. Consider these devices part of your “Guest List” where anyone matched is allowed to access a specific system or network.
+
 Within Salesforce, Whitelisting (Allowlisting) is used in the same way and is essential when working with partners and clients in order to ensure the necessary employees from both sides have access to systems in a safe and secure manner.
 
 ## How To Whitelist (Allowlist) In Salesforce
@@ -53,5 +57,7 @@ You can also grant access to individual IPs by setting the start and end to the�
 {{< image src="/img/1_YTqrMWDw1dX1R9zfaXhUpQ.png" title="Image" >}}
 
 And now you (and your users and systems) are all set!
+
 Just like Whitelist and Blacklist (the opposite of Whitelist) are known terms within the cyber security industry new terminology is always rising to improve communication and understanding between individuals. That is why terms like “Allowlist” (Whitelist) and “Blocklist” (Blacklist) are terms one would encounter instead.
+
 Thanks for stopping by and, until next time, keep working hard, smart, and happy. And we’ll see you in the cloud.

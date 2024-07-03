@@ -21,7 +21,9 @@
 ---
 
 Everyone probably has their go-to application for creating stunning, readable organizational charts — but when you need to whip one up in a hurry it’s not always worth the effort of firing up Illustrator or your design software of choice. When you just need something presentable in a hurry, a placeholder perhaps, or any situation where the information and arrangement is more important than the final presentation, there’s a super speedy way to spin one up in [Google Sheets](http://sheets.google.com/)!
+
 Today we’ll walk through the sub-2-minute process and have you back to working on the meat of your presentation or proposal in no time. Let’s get started!
+
 First, enter the URL “[sheets.new](https://sheets.new/)” to launch a brand new Google Sheet (the Google Workspace equivalent of Excel).
 {{< image src="/img/1_lb75lzYEqvVipf6CHp7Ilw.png" title="Image" >}}
 
@@ -38,6 +40,7 @@ And repeat until everyone is labelled appropriately.
 {{< image src="/img/1_u9LafWz2I20QjXP23jQ8Ig.png" title="Image" >}}
 
 **Note: Any name/title cell that has a blank cell next to it will appear at the top of a hierarchy, so here our CEO has a blank cell next to them, meaning they’ll be at the top of the chart. If you were making a joint chart for multiple teams and wanted them to be separate, you’d have two (or more) name/title cells with empty adjacent cells and the results would be two (or more) side by side charts essentially.**
+
 Once all the data is entered, simply select the entire table (and make sure not to select the column labels if you chose to use them).
 {{< image src="/img/1_bj-vzuTvAGAZG9FTsvNJiQ.png" title="Image" >}}
 
@@ -62,7 +65,9 @@ And that will bring back the edit panel where, on the “Customize” tab you ca
 {{< image src="/img/1_2oipyTLpFotWZO-kkWHh7g.png" title="Image" >}}
 
 And now you’re all set! 1 org chart, in a flash!
+
 I’ll also add one more helpful hint if you’re planning on making this chart more final draft than first: if you want to add some additional formatting to the labels, say, having the name appear above the title, you’ll have to do that in the cells you’re using to generate the chart.
+
 In Google Sheets, adding an in-cell line break is as easy as “**Alt+Enter**”. So here you’ll see I’ve updated our CEO’s cell to be a little more broken out by using “**Alt+Enter**” to insert a break after their name and after the hyphen to make our text a bit more readable. And it updates the chart in real-time (visible in the lower right).
 {{< image src="/img/1_8PXxuL4GtZ1qPeh7q3mSHA.png" title="Image" >}}
 

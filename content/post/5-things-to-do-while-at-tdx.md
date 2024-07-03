@@ -34,6 +34,7 @@ Third Eye Blind headlines as the guest music performance at TDX this year. Enjoy
 ## Attend Happy Hour Events (Various Throughout Each Day)
 
 Many sponsors or collaborators will put together networking activities such as happy hours to bring Trailblazers together. There will be many happening at once so choose which ones fit your schedule after each day. One of the recommendations will be to check out SF Ben Happy Hour.
+
 If you work with Salesforce then chances are you stopped by their site and found some helpful articles to use for your everyday tasks. Expect an open bar, and perhaps a fun activity or two, as they anticipate another successful activity.
 
 > Host: **SF Ben**Date: **March 7th**  
@@ -55,9 +56,10 @@ Visiting the world-famous Golden Gate Bridge is a unique experience for everyone
 
 ## Enjoy The TDX Experience
 
-Don’t lose sight and enjoy the moment. Whether it&#39;s taking a picture with your favorite Salesforce character or meeting up with a Trailblazer to have a cup of coffee. Living the experience and taking it all in is what these events are all about. Don’t lose sight of your goals but at the same time have some fun.
+Don’t lose sight and enjoy the moment. Whether it's taking a picture with your favorite Salesforce character or meeting up with a Trailblazer to have a cup of coffee. Living the experience and taking it all in is what these events are all about. Don’t lose sight of your goals but at the same time have some fun.
 
 ## Conclusion
 
 These are just some of the activities we recommend for first-timers or returning visitors to the Bay Area. Let us know what are you looking forward to the most while attending TDX this year.
+
 Until then, keep working hard, smart, and happy. We’ll see you in the cloud.

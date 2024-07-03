@@ -21,7 +21,9 @@
 ---
 
 As community conferences (aka Dreamin’ events) ramp up this time of the year, you’ll probably notice more and more Salesforce snapshots in your social feeds that give a glimpse of what these events are all about. In just two weeks Salesforce admins, developers, architects, marketers, and more will head back to the [AT&amp;T Executive Conference Center](https://meetattexas.com/) once again for Texas Dreamin’!
+
 This year’s installment will bring Trailblazers back to Austin, TX, and kick off by hosting sponsors, speakers, and potential MVPs at a Speakers Reception between 6–8 pm on Wednesday, May 29th.
+
 Let’s Dive In.
 
 ## What to Expect (Weather Wise)
@@ -53,11 +55,22 @@ Many attendees enjoy these types of community conferences because it allows them
 ## Meet Our Team
 
 If you plan to attend make sure to add the sessions below to your agenda and say “Hello” to some of our team members. You may just learn something new.
-<strong>May 30th</strong> <br>1:30 pm — Increase trust and security with automated testing.
-<strong>May 31st </strong><br>11:30 am — Developer Communication for Salesforce Admins<br>11:30 am — Keys to Successful Salesforce Partner Marketing<br>12:30 pm — Nouveau à Tableau<br>12:30 pm — Scale your internal support and customer service with AI-powered chatbots
+
+**May 30th**
+
+- 1:30 pm — Increase trust and security with automated testing.
+
+**May 31st**
+
+- 11:30 am — Developer Communication for Salesforce Admins
+- 11:30 am — Keys to Successful Salesforce Partner Marketing
+- 12:30 pm — Nouveau à Tableau
+- 12:30 pm — Scale your internal support and customer service with AI-powered chatbots
+
 And don’t forget to build your agenda with the [full list of sessions right here](https://www.texasdreamin.org/agenda.html)!
 
 ## What are you looking for?
 
 Let us know what interests you the most at these community conferences to make sure we do our research and include them in our next installment.
+
 Until next time keep working hard, smart, and happy. And we’ll see you in the cloud!

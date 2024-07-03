@@ -7,7 +7,7 @@
   "date": "2024-06-18T18:02:38.000Z",
   "title": "See You There: Dreamin’ in Color 2024!",
   "Slug": "see-you-there-dreamin-in-color-2024",
-  "description": "This year marks Dreamin’ In Color’s 3rd annual community conference for Black, Latinx, and Hispanic individuals engaged with or interested in the Salesforce platform...",
+  "description": "We’ll see you in New Orleans!",
   "tags": ["trailblazer", "events", "dreamin"],
   "author":
     {
@@ -21,6 +21,7 @@
 ---
 
 This year marks Dreamin’ In Color’s 3rd annual community conference for Black, Latinx, and Hispanic individuals engaged with or interested in the Salesforce platform and its integrated technologies, such as Tableau, MuleSoft, Slack, and AI. It’ll take place at the [International Hotel and Resort](https://www.ihg.com/intercontinental/hotels/us/en/new-orleans/msyha/hoteldetail), a change from previous years’ location and the first installment to take place in New Orleans, LA!
+
 The [official start date](https://www.dreaminincolor.me/) is Thursday, June 20th but badge pickup and a kickoff “Cookout” event on will take place on Wednesday, June 19th over at the [Court of Two Sisters](https://www.courtoftwosisters.com/)!
 
 ## What to Expect (Weather Wise)
@@ -32,6 +33,7 @@ Visiting a new location always calls for a quick check on the weather, so here�
 
 This is the first year to feature a Spanish-language track and a focus on Latinx and Hispanic communities: Soñando En Color.
 If you plan to attend, be ready for a curated set of sessions, speakers, activities, and more for Latinx and Hispanic individuals on top of what you have experienced if attended before.
+
 Check out their entire [Soñando En Color itinerary](https://www.dreaminincolor.me/sonandoencolor).
 
 ## The Agenda
@@ -58,7 +60,9 @@ Make sure to arrive early to get a good spot to hear the keynote.
 ## In-Person Networking Opportunities
 
 Dreamin’ in Color continues with a full agenda on its 2nd day going until 5 pm on Friday, June 21st. A ‘wrap-up’ gathering will take place, led by one of their founders, Tiffany Spencer. From there, the last happy hour will take everyone to the [Dream House Lounge](https://www.dhlounge.com/) between 6 pm — 9 pm.
+
 Throughout the event take the opportunity to meet Trailblazers you wish to connect and network with. Wine, beer, and other drinks along with some appetizers and food may be served during the happy hours activities so enjoy some food and have a down-to-earth conversation with the person right next to you.
+
 Leverage these moments to learn more and make connections that may nudge your career opportunities to their next level.
 
 ## Say Hello!

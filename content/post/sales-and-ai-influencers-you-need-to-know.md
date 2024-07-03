@@ -7,7 +7,7 @@
   "date": "2024-06-25T23:42:03.000Z",
   "title": "Sales and AI “Influencers” You Need to Know",
   "Slug": "sales-and-ai-influencers-you-need-to-know",
-  "description": "Social media won. Gone are the monopolies of the monolithic media companies. People no longer pick up a newspaper to pair with their morning coffee, instead they reach for their phones. And it’s not the evening news that tells us what happened over the course of the day anymore, it’s our coworkers, kids, and the “plugged in” among us who post, comment, watch, tell, and re-tell..",
+  "description": "According to Salesforce",
   "tags": ["trailblazer", "sales", "artificial-intelligence"],
   "author":
     {
@@ -19,6 +19,8 @@
   "thumbnail": { "url": "/img/1_HNFxfK9I7SYgl_7bETiASw.png" },
 }
 ---
+
+Social media won. Gone are the monopolies of the monolithic media companies. People no longer pick up a newspaper to pair with their morning coffee, instead they reach for their phones. And it’s not the evening news that tells us what happened over the course of the day anymore, it’s our coworkers, kids, and the “plugged in” among us who post, comment, watch, tell, and re-tell.
 
 We live in an era of “influencers” and, luckily, “influencer” isn’t viewed as a bad word by the non-marketing-departments anymore! In fact, most folks follow at least some people they don’t know for professional insight, updates, and news on LinkedIn, Instagram, or their platforms of preference!
 
