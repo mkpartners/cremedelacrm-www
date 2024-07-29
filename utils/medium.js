@@ -93,7 +93,7 @@ const scrapeFromRSS = async () => {
   }
   previousPostMap = JSON.stringify(previousPostMap);
   previousPostMap = previousPostMap.replace(/,/g, ",\n");
-  console.log(previousPostMap);
+  // console.log(previousPostMap);
   await utils.saveFile("./posts.json", previousPostMap);
   return newPostArray;
 };
@@ -142,6 +142,8 @@ const convertRssItem = (item) => {
     0,
     story.thumbnailURL.length
   );
+
+  console.log("start", story.rssContent, "end");
   story.mdContent = story.rssContent.replace(/\n/, "");
 
   if (item.content.indexOf("<h4>") === 0) {
@@ -182,7 +184,7 @@ const convertRssItem = (item) => {
   const pTags = story.mdContent.match(pRegex);
   if (pTags && pTags.length > 0) {
     for (let i = 0; i < pTags.length; i++) {
-      const newTag = pTags[i].replace("<p>", "").replace("</p>", "\n");
+      const newTag = pTags[i].replace("<p>", "\n").replace("</p>", "\n");
       story.mdContent = story.mdContent.replace(pTags[i], newTag);
     }
   }
@@ -202,6 +204,7 @@ const convertRssItem = (item) => {
 
   story.mdContent = replaceHTMLTag(story.mdContent, "h3", "\n## ", "\n\n");
   story.mdContent = replaceHTMLTag(story.mdContent, "em", "**", "**");
+  story.mdContent = replaceHTMLTag(story.mdContent, "strong", "**", "**");
 
   const blockquoteRegex = /<blockquote(.*?)<\/blockquote>/gim;
   const blockquoteTags = story.mdContent.match(blockquoteRegex);
@@ -233,6 +236,7 @@ const convertRssItem = (item) => {
       '<img src="https://medium.com/_/stat'
     );
   }
+  story.mdContent = story.mdContent.replace(/\n\n\n/gim, "\n\n");
   return story;
 };
 
